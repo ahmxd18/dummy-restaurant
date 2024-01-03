@@ -147,7 +147,7 @@ body {
 /* ********************************** */
 .home-content-1 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("Assets/italian-pasta-shells-with-mushrooms-zucchini-tomato-sauce.jpg");
+    url("https://source.unsplash.com/1600x900/?food");
   background-size: 100% 100%;
   background-position: center;
   background-size: cover;
@@ -174,7 +174,7 @@ body {
 
 .home-content-2 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(Assets/top-view-food-banquet.jpg);
+    url("https://source.unsplash.com/1600x900/?food");
   background-size: 100% 200%;
   background-size: cover;
   background-position: center;
